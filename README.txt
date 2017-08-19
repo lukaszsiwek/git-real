@@ -1,1 +1,1 @@
-Something new
+Something new zmienione w dokumenty git-real.
